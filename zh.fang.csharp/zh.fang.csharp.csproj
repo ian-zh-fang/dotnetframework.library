@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="caching\ICachingProvider.cs" />
     <Compile Include="caching\ICachingStrategy.cs" />
+    <Compile Include="caching\NoCachingProvider.cs" />
     <Compile Include="DateTime.cs" />
     <Compile Include="Guid.cs" />
     <Compile Include="ioc\DependencyResolver.cs" />
