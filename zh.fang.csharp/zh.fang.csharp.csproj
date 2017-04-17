@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Func.cs" />
     <Compile Include="caching\ICachingProvider.cs" />
     <Compile Include="caching\ICachingStrategy.cs" />
     <Compile Include="caching\NoCachingProvider.cs" />
